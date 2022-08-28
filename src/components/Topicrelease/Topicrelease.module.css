@@ -1,0 +1,25 @@
+.releaseiframe {
+    width: 800px;
+    height: 500px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-left: 330px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+
+.releaseclose {
+    text-align: right;
+}
+
+.releaseline {
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.releasebutton {
+    margin-top: 50px;
+    text-align: center;
+}
