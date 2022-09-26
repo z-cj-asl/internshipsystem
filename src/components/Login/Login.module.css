@@ -1,0 +1,36 @@
+.login_conponent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.login_frame {
+    height: 700px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(7px + 2vmin);
+    color: white;
+}
+.login_aside {
+    margin-right: 90px;
+}
+
+.login_tip {
+    padding: 20px;
+    color:rgb(209, 136, 26)
+}
+
+.button_login {
+    margin-right: 40px; 
+    color:rgb(237, 211, 81);
+    background-color:rgba(44, 28, 152, 0.748);
+    margin-top: 15px;
+}
+
+.button_sign {
+    margin-left: 40px;
+    color:rgb(237, 211, 81);
+    background-color:rgba(44, 28, 152, 0.748);
+    margin-top: 15px;
+}

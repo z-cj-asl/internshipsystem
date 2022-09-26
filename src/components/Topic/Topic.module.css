@@ -1,0 +1,145 @@
+.topicpage {
+    display: flex;
+    flex-direction: row;
+}
+
+.topicleft {
+    background-color: rgb(171, 180, 186);
+    width:660px;
+    height: 610px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.topicright {
+    width:660px;
+    height: 590px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 20px;
+}
+
+.closebutton {
+    text-align: right;
+    margin-right: 70px;
+    margin-top: 10px;
+    color:rgb(55, 48, 0);
+}
+
+.topicinfor {
+    padding-left:10px;
+}
+
+.topictitle {
+    font-size: 30px;
+}
+
+.lineintroducion {
+    display: flex;
+    flex-direction: row;
+}
+
+.topicline {
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.introduction {
+    width: 500px;
+    height: 100px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.disscuss {
+    width: 640px;
+    min-height: 500px;
+    background-color: rgb(143, 149, 153);
+    border-radius: 10px;
+    margin-top: 5px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.sendmsg {
+    padding-top: 10px;
+    margin-left: 80px;
+}
+
+.input {
+    width: 500px;
+}
+
+.delememberpage {
+    background-color: rgb(171, 180, 186);
+    position:absolute;
+    bottom: 350px;
+    left: 470px;
+    width:500px;
+    height: 100px;
+    overflow-y: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.deletememberselect {
+    text-align: center;
+}
+
+.evaluatepage {
+    background-color: rgb(171, 180, 186);
+    position:absolute;
+    bottom: 300px;
+    left: 410px;
+    width:658px;
+    height: 180px;
+    overflow-y: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.certificatepage {
+    background-color: rgb(171, 180, 186);
+    position:fixed;
+    bottom: 350px;
+    left: 390px;
+    width:658px;
+    height: 100px;
+    overflow-y: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.taskpage {
+    width: 600px;
+    height: 330px;
+    overflow-x: auto;
+    overflow-y: auto;
+    background-color: azure;
+    margin-top: 1opx;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.memberselect {
+    text-align: right;
+    margin-right: 40px;
+}
+
+.underbutton {
+    text-align: right;
+    margin-right: 30px;
+}
